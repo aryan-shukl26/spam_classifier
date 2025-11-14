@@ -147,14 +147,6 @@ The model achieves strong performance with high validation accuracy, demonstrati
 
 <br>
 
-▶️ How to Run
-git clone https://github.com/yourusername/Spam-Classifier.git
-cd Spam-Classifier
-pip install -r requirements.txt
-jupyter notebook Spam_Classif.ipynb
-
-<br>
-
 📁 Repository Structure
 📦 Spam-Classifier
  📜 Spam_Classif.ipynb
